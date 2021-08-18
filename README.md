@@ -5,7 +5,7 @@
 
 🍀 I am currently learning how to use Express and increasing my skills on React, SQL... thanks to a school project aiming at creating a professional app for physiotherapists 🩺
 
-🍀 I am looking forward to starting my internship at [@Bakasable](https://www.bakasable.fr/agence) in 2 months ! 🤓
+🍀 I started my internship at [@Bakasable](https://www.bakasable.fr/agence) for 4 months ! 🤓
 
 🍀 I am addicted to plants (I have manyyyyyy 🌱 🪴 🎋 🌵 🎍 🌱 ) and I like to talk to them when I'm not busy coding 
 
