@@ -1,9 +1,9 @@
 ### Hello there 👋  I'm Ninon
-### I am currently training at the Wild Code School to become a web developer 💪
+### I am a junior web developer 💪
 
-🍀 I am currently working on a gluten free recipes app with React 🥞
+🍀 I am currently improving my plants handbook project with React 🥞
 
-🍀 I started my internship at [@Bakasable](https://www.bakasable.fr/agence) for 4 months ! 🤓
+🍀 I just finihed my 4 months internship at [@Bakasable](https://www.bakasable.fr/agence) and am open for work ! 🤓
 
 🍀 I am addicted to plants (I have manyyyyyy 🌱 🪴 🎋 🌵 🎍 🌱 ) and I like to talk to them when I'm not busy coding 
 
