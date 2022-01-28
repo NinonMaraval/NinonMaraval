@@ -1,7 +1,7 @@
 ### Hello there 👋  I'm Ninon
 ### I am a junior web developer 💪
 
-🍀 I just started to work at [@Obole](https://obole.eu/) as full stack web dev ! 🤓
+🍀 I just started to work at [@Obole](https://obole.eu/) as a full stack web dev ! 🤓
 
 🍀 I am currently improving my plants handbook project with React 🥞
 
