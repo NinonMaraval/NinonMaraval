@@ -18,7 +18,7 @@ Je m’intéresse particulièrement aux produits à impact, aux parcours utilisa
 
 ### 💼 Experience
 
-🍀 Fullstack Web Developer at [Grinn](https://www.grinn.tech/)  
+🍀 Fullstack Web Developer at [Grinn](https://theproject.company/)  
 Je travaille sur des applications web et mobiles, en lien étroit avec le produit et les équipes métier.
 
 ---
