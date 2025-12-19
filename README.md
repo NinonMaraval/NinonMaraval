@@ -7,4 +7,4 @@
 
 📌 LinkedIn [@NinonMaraval](https://www.linkedin.com/in/ninon-maraval-77224230/)
 
-📌 CV/portfolio [@here](https://ninon-portfolio.webflow.io/)
+📌 CV/portfolio [@here](https://ninon-portfolio-rm99.vercel.app/)
